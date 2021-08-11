@@ -1,3 +1,6 @@
 # Space-invaders
 Space invaders game made in Python using pygame
-- tercer commit con script!!
+
+$ python -m pip install pygame
+$ python start_game.py
+
