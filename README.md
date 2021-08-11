@@ -1,5 +1,7 @@
 # Space-invaders
-Space invaders game made in Python using pygame
+>Juego Space Invaders implementado en Python con pygame
+
+[**Space Invaders (Wikipedia ES)**](https://es.wikipedia.org/wiki/Space_Invaders)
 
 ```
 $ python -m pip install pygame
